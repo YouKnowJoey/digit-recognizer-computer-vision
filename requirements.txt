@@ -1,0 +1,31 @@
+# conda create -n digit-cv python=3.10
+
+# Core Data Science
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning Utilities
+scikit-learn
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Notebook Environment
+jupyterlab
+
+# Kaggle dataset access
+kaggle
+kagglehub
+
+# Image Processing
+opencv-python
+
+# Progress Bars / Utilities
+tqdm
+ipywidgets
